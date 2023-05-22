@@ -1,0 +1,103 @@
+{
+    "sports": [
+      {
+        "id": 1,
+        "sport": "Basketball",
+        "homeTeam": {
+          "teamName": "Los Angeles Clippers",
+          "spread": "+3.5",
+          "moneyline": "+150",
+          "gameTotal": "o 218.5"
+        },
+        "awayTeam": {
+          "teamName": "Phoenix Suns",
+          "spread": "-3.5",
+          "moneyline": "-185",
+          "gameTotal": "u 218.5"
+        }
+      },
+      {
+        "id": 2,
+        "sport": "Basketball",
+        "homeTeam": {
+          "teamName": "Los Angeles Lakers",
+          "spread": "-6",
+          "moneyline": "-220",
+          "gameTotal": "o 224.5"
+        },
+        "awayTeam": {
+          "teamName": "Sacramento Kings",
+          "spread": "+6",
+          "moneyline": "+200",
+          "gameTotal": "u 224.5"
+        }
+      },
+      {
+        "id": 3,
+        "sport": "Baseball",
+        "homeTeam": {
+          "teamName": "St. Loius Cardinals",
+          "spread": "-1.5",
+          "moneyline": "-200",
+          "gameTotal": "o 7.5"
+        },
+        "awayTeam": {
+          "teamName": "Atlanta Braves",
+          "spread": "+1.5",
+          "moneyline": "+150",
+          "gameTotal": "u 7.5"
+        }
+      },
+      {
+        "id": 4,
+        "sport": "Baseball",
+        "homeTeam": {
+          "teamName": "Houston Astros",
+          "spread": "-1.5",
+          "moneyline": "-220",
+          "gameTotal": "o 9.5"
+        },
+        "awayTeam": {
+          "teamName": "Oakland A's",
+          "spread": "+1.5",
+          "moneyline": "+175",
+          "gameTotal": "u 9.5"
+        }
+      },
+      {
+        "id": 5,
+        "sport": "Football",
+        "homeTeam": {
+          "teamName": "Arizona Cardinals",
+          "spread": "-6.5",
+          "moneyline": "-250",
+          "gameTotal": "o 48"
+        },
+        "awayTeam": {
+          "teamName": "Chicago Bears",
+          "spread": "+6.5",
+          "moneyline": "+220",
+          "gameTotal": "u 48"
+        }
+      },
+      {
+        "id": 6,
+        "sport": "Football",
+        "homeTeam": {
+          "teamName": "Miami Dolphins",
+          "spread": "-2.5",
+          "moneyline": "-160",
+          "gameTotal": "o 42.5"
+        },
+        "awayTeam": {
+          "teamName": "Cleveland Browns",
+          "spread": "+2.5",
+          "moneyline": "+135",
+          "gameTotal": "u 42.5"
+        }
+      }
+    ],
+    "bets":[{
+        
+    }]
+  }
